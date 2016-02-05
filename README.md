@@ -20,9 +20,9 @@ You are welcome to use models, scripts or our map/environments.
 3. Collectibles are yet to be scripted and added (Suggestions are welcome as "pull requests" :)) 
 
 ## Credits
-Special Thanks to @iammasariya(modelling and scripting help) and @MANTHAN-D(level/map developer guy :)).
+Special Thanks to @iammasariya(scripter) and @MANTHAN-D(level/map developer guy :)).
 
-Thanks to our team @SohamBadheka, @cbsejpal, @dhruven7, devanshi, yanki & aakansha, for supporting as a team. :) 
+Thanks to @SohamBadheka, @cbsejpal, @dhruven7(modeler guy :)), devanshi, yanki & aakansha, akshay for supporting as a team. :) 
 
 ## Screenshots
 <img src="https://github.com/JaySardhara/Survival-Game---Unity-3D/blob/master/shots/12.PNG" width="300">
