@@ -20,13 +20,13 @@ You are welcome to use models, scripts or our map/environments.
 3. Collectibles are yet to be scripted and added (Suggestions are welcome as "pull requests" :)) 
 
 ## Credits
-Special Thanks to @iammasariya(modelling and scripting help) and @MANTHAN-D(level/map developer guy :))
+Special Thanks to @iammasariya(modelling and scripting help) and @MANTHAN-D(level/map developer guy :)).
 Thanks to our team @SohamBadheka, @cbsejpal, @dhruven7, devanshi, yanki & aakansha, for supporting as a team. :) 
 
 ## Screenshots
-<img src="https://github.com/JaySardhara/Survival-Game---Unity-3D/blob/master/shots/12.png" width="300">
-<img src="https://github.com/JaySardhara/Survival-Game---Unity-3D/blob/master/shots/1234.png" width="300">
+<img src="https://github.com/JaySardhara/Survival-Game---Unity-3D/blob/master/shots/12.PNG" width="300">
+<img src="https://github.com/JaySardhara/Survival-Game---Unity-3D/blob/master/shots/1234.PNG" width="300">
 <img src="https://github.com/JaySardhara/Survival-Game---Unity-3D/blob/master/shots/2.png" width="300">
 <img src="https://github.com/JaySardhara/Survival-Game---Unity-3D/blob/master/shots/3.png" width="300">
-<img src="https://github.com/JaySardhara/Survival-Game---Unity-3D/blob/master/shots/1.png" width="300">
+<img src="https://github.com/JaySardhara/Survival-Game---Unity-3D/blob/master/shots/1.PNG" width="300">
 
